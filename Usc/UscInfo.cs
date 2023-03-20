@@ -8,11 +8,11 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace BalanceXpert
+namespace BalanceXpert.UserControl
 {
-    public partial class Form1 : Form
+    public partial class UscInfo : UserControl
     {
-        public Form1()
+        public UscInfo()
         {
             InitializeComponent();
         }
